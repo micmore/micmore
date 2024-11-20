@@ -31,7 +31,6 @@ I'm Michael M. Moore Jr., a senior student at Southern Illinois University Carbo
 
 ### 📫 How to Reach Me
 - LinkedIn: [Michael M. Moore Jr.](https://www.linkedin.com/in/michael-m-moore/)
-- Email: michaelmoorejr@example.com
 
 ### 😄 Pronouns
 - He/Him
