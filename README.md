@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-I'm Michael M. Moore Jr., a senior student at Southern Illinois University Carbondale, pursuing a Bachelor of Science in Information Technology. I have a passion for providing technical support and solutions, particularly for small businesses. In my role as a Support Specialist, I focus on delivering efficient and technically sound solutions that drive business success.
+I'm Michael, I have a passion for providing technical support and solutions, particularly for small businesses. In my role as a Support Specialist, I focus on delivering efficient and technically sound solutions that drive business success.
 
 ### 🔭 What I'm Currently Working On
-- Finishing my degree in Information Technology (graduating in December 2024)
 - Expanding my knowledge in cloud computing, data analytics, and IoT applications
 - Exploring project management and database programming through hands-on projects
 
@@ -30,7 +29,7 @@ I'm Michael M. Moore Jr., a senior student at Southern Illinois University Carbo
 - A lifelong learner who’s passionate about making technology more accessible to everyone
 
 ### 📫 How to Reach Me
-- LinkedIn: [Michael M. Moore Jr.](https://www.linkedin.com/in/michael-m-moore/)
+
 
 ### 😄 Pronouns
 - He/Him
