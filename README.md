@@ -1,37 +1,30 @@
-## Hi there 👋
+# Michael | Systems & Software Architect
+*Weaving resilient infrastructure, clean code, and cloud automation into the invisible engines of modern enterprise.*
 
-I'm Michael, I have a passion for providing technical support and solutions, particularly for small businesses. In my role as a Support Specialist, I focus on delivering efficient and technically sound solutions that drive business success.
+I specialize in bridging complex technical architecture with real-world business strategy. As a systems specialist and full-stack developer, my focus lies in crafting highly secure, reliable, and optimized digital ecosystems that operate seamlessly beneath the surface.
 
-### 🔭 What I'm Currently Working On
-- Expanding my knowledge in cloud computing, data analytics, and IoT applications
-- Exploring project management and database programming through hands-on projects
+---
 
-### 🌱 What I'm Currently Learning
-- Advanced cloud security techniques
-- SQL database management and optimization
-- Python 3.12 and its applications in data analysis and automation
-- Frontend and backend web development (HTML, CSS, JavaScript)
+### 🔮 Current Explorations & Focus
+* **Cloud & Infrastructure:** Architecting scalable cloud environments (AWS/GCP) and deploying IoT telemetric frameworks for modern logistics.
+* **Data Synthesis:** Building automated pipelines and deep data analytics using **Python 3.12** and advanced **SQL/MySQL** optimizations.
+* **Full-Stack Engineering:** Developing clean, responsive, and secure web applications from the database tier up to the user interface.
 
-### 👯 I’m Looking to Collaborate On
-- Web development projects that involve full-stack technologies
-- Cybersecurity initiatives, particularly those involving cloud platforms
-- IoT solutions for transportation and logistics industries
+### 📜 Technical Grimoire
+| Domain | Technologies & Competencies |
+| :--- | :--- |
+| **Backend & Data** | Python 3.12, SQL, MySQL, Database Administration & Schema Optimization |
+| **Cloud & Security** | AWS, Google Cloud Platform (GCP), Advanced Cloud Security, Access Control |
+| **Web Development** | Modern JavaScript, HTML5, CSS3, Full-Stack Architecture |
+| **Systems & IoT** | IoT Protocols, Infrastructure Automation, Small Business IT Solutions |
 
-### 💬 Ask Me About
-- SQL, MySQL, and database administration
-- Web development (HTML, CSS, JavaScript)
-- Python for data analytics and automation
-- Cloud services (AWS, Google Cloud)
+### 🌐 Open for Nexus & Collaboration
+I actively seek collaboration on:
+* **Secured Cloud Initiatives:** Architecting zero-trust environments and robust cloud platforms.
+* **Next-Gen Web Applications:** Full-stack projects that demand clean architecture and high availability.
+* **Edge & IoT Solutions:** Smart telemetry and tracking systems within transportation and logistics.
 
-### ⚡ Fun Facts About Me
-- I enjoy camping, fishing, and traveling in my spare time
-- Always down for a good tech discussion, especially about how technology impacts everyday life
-- A lifelong learner who’s passionate about making technology more accessible to everyone
+---
 
-### 📫 How to Reach Me
-
-
-### 😄 Pronouns
-- He/Him
-
-Thanks for visiting my profile! Looking forward to connecting with fellow tech enthusiasts and collaborators. 😊
+### ⚡ Beyond the Terminal
+When I'm not navigating databases or orchestrating cloud deployments, you can find me disconnecting in the backcountry—camping, fishing, and seeking inspiration along hidden waterways. I am a lifelong seeker of knowledge, driven to demystify complex technology and build intuitive, accessible systems.
