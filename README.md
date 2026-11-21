@@ -2,7 +2,7 @@
 
 **I fix what's broken, then automate it so it stays fixed.**
 
-IT specialist in Chicago. 20+ years in tech, from field technician to systems and network admin. I like the problem where something is down, someone is waiting, and the fix means understanding the whole chain: the user, the account, the network, the OS, and the app.
+IT specialist with several years, from field technician to systems and network admin. I like the problem where something is down, someone is waiting, and the fix means understanding the whole chain: the user, the account, the network, the OS, and the app.
 
 ## What I'm about
 
