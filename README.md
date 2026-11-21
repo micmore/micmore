@@ -34,9 +34,5 @@ Most are private. Write ups and screenshots are on my portfolio.
 
 🌐 [michaelmmoore.com](https://michaelmmoore.com) · 💼 [LinkedIn](https://www.linkedin.com/in/informationetechnology/)
 
-**Open to** help desk, technical support engineer, systems administrator, and network administrator roles. Chicago or remote.
+**Open to** help desk, technical support engineer, systems administrator, and network administrator roles. Chicago-based but always open to relocate. Onsite, Hybrid or remote.
 
-- Length: it's about half the length of the README you pasted.
-- Hook: the one-line hook is the first thing a recruiter sees.
-- Projects table: it replaces the long bullets.
-- Toolbox: it is one line of tags, because a skills table reads like a resume.
