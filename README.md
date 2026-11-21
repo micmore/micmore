@@ -1,6 +1,6 @@
 # Michael M. Moore
 
-IT specialist in the Chicago area. Technical support, systems administration, and networking.
+IT specialist in the Chicago area. Help desk, technical support, systems administration, and networking.
 
 I have been working with technology for over twenty years. I started as a field technician at Comcast, then moved through software support, data and systems work, and network and systems administration for a school district. I finished a B.S. in Information Technology at Southern Illinois University in 2025.
 
@@ -41,4 +41,4 @@ Most of these live in private repos. Write ups and screenshots are on my portfol
 - Portfolio: [michaelmmoore.com](https://michaelmmoore.com)
 - LinkedIn: [linkedin.com/in/informationetechnology](https://www.linkedin.com/in/informationetechnology/)
 
-I am open to systems administration, network administration, IT infrastructure, and technical support engineer roles, in Chicago or remote.
+I am open to help desk, technical support engineer, systems administration, network administration, and IT infrastructure roles, in Chicago or remote.
